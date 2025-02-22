@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/UTMenuDrink/static/css/main.f5b3bf1d.css",
-    "main.js": "/UTMenuDrink/static/js/main.f35e8926.js",
+    "main.css": "/UTMenuDrink/static/css/main.6d2a00ab.css",
+    "main.js": "/UTMenuDrink/static/js/main.47fe9f72.js",
     "index.html": "/UTMenuDrink/index.html",
-    "main.f5b3bf1d.css.map": "/UTMenuDrink/static/css/main.f5b3bf1d.css.map",
-    "main.f35e8926.js.map": "/UTMenuDrink/static/js/main.f35e8926.js.map"
+    "main.6d2a00ab.css.map": "/UTMenuDrink/static/css/main.6d2a00ab.css.map",
+    "main.47fe9f72.js.map": "/UTMenuDrink/static/js/main.47fe9f72.js.map"
   },
   "entrypoints": [
-    "static/css/main.f5b3bf1d.css",
-    "static/js/main.f35e8926.js"
+    "static/css/main.6d2a00ab.css",
+    "static/js/main.47fe9f72.js"
   ]
 }
