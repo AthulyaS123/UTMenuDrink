@@ -85,3 +85,19 @@ main {
 .menu-item button:hover {
   background-color: #d3d3d3;
 }
+
+.cart-summary {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-wrap: wrap; 
+  gap: 10px;
+}
+
+.cart-summary h3 {
+  margin-bottom: 0;
+}
+
+.cart-summary button {
+  min-width: 100px; 
+}
